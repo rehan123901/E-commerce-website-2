@@ -1,3 +1,7 @@
+To access this website you can click the link given below:
+https://super-elf-d6e2c6.netlify.app/
+
+
 # ShopHub - Modern E-Commerce Website
 
 A beautiful, optimized e-commerce website built with React, featuring modern UI design and performance optimizations.
@@ -80,4 +84,5 @@ src/
 - Responsive navigation
 - Search functionality
 - Smooth animations and transitions
+
 
